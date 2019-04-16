@@ -1,0 +1,54 @@
+ @media (max-width:575px) {
+.bg-success{
+    opacity: 0.8;
+  }
+}
+
+.navbar{
+  border-bottom: #3395ff 3px solid;
+  opacity: 0.8;
+}
+.navbar-brand img{
+  height: 70px;
+  width: 100px;
+}
+.fa{
+  color: #fff;
+  font-size: 20px;
+}
+
+.home-inner{
+  padding-top: 70px;
+  padding-bottom: 70px;
+}
+.card-body hr{
+  background: #fff;
+  border: 1px solid #fff;
+  border-radius: 0px 0px 5px 5px;
+  width: 79px;
+  height: 2px;
+}
+
+#main-section .bg-dark {
+  opacity: 0.8;
+  border-radius: 5px;
+}
+
+#main-section .bg-dark p{
+  font-size: 30px;
+}
+#main-section{
+  background-image: url('Assets/images/tourism.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+
+.fa-heart{
+  color: red;
+}
+
+#main-footer  {
+  height: 60px;
+}
